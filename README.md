@@ -7,13 +7,10 @@
 <img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=DxxxxY&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
 ## About Me
-- 18\.
+- 18 yo.
 - self taught full-stack developer.
 - currently studying computer science in college.
 - name is meant to be obfuscated version of dreamy.
-- https://dreamys.studio/ (dreamy's studio).
-- dxxxxy#0776, no other socials.
-- [_@dreamys.studio](mailto:_@dreamys.studio).
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
